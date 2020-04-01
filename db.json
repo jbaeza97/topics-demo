@@ -39,6 +39,36 @@
          "id":8,
          "title":"El nacimiento de Moisés y la zarza ardiente",
          "quotes":"Éxodo 1:6-22, Éxodo 2-4"
-      }
+      },
+      {
+         "id":9,
+         "title":"Las plagas y la pascua",
+         "quotes":"Éxodo 5-12"
+      },
+      {
+         "id":10,
+         "title":"La división del mar rojo y los diez mandamientos",
+         "quotes":"Éxodo 14, Éxodo 19-20, Éxodo 34"
+      },
+      {
+         "id":11,
+         "title":"Entrada a la tierra prometida",
+         "quotes":"Números 13-14, Josué 2-3, Josué 5-6"
+      },
+      {
+         "id":12,
+         "title":"Sansón",
+         "quotes":"Jueces 13-16"
+      },
+      {
+         "id":13,
+         "title":"Rut",
+         "quotes":"Rut 1-4"
+      },
+      {
+         "id":14,
+         "title":"Dios llama a Samuel",
+         "quotes":"1 Samuel 1, 1 Samuel 3"
+      },
    ]
 }
