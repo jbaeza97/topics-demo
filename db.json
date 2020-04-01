@@ -1,0 +1,44 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "La creación del mundo",
+      "quotes": "Génesis 1, Génesis 2:1-4"
+    },
+    {
+      "id": 2,
+      "title": "La caída"
+      "quotes": "Génesis 3"
+    },
+    {
+      "id": 3,
+      "title": "Noé y el Diluvio"
+      "quotes": "Génesis 6:5-22, Génesis 7, Génesis 8, Genesis 9:1-17"
+    },
+    {
+      "id": 4,
+      "title": "Dios llama a Abraham"
+      "quotes": "Génesis 12:1-6, Génesis 15:1-7"
+    },
+    {
+      "id": 5,
+      "title": "Abraham e Isaac"
+      "quotes": "Génesis 15:1-6, Génesis 21:1-7, Génesis 22:1-19"
+    },
+    {
+      "id": 6,
+      "title": "José es vendido como esclavo"
+      "quotes": "Génesis 37"
+    },
+    {
+      "id": 7,
+      "title": "José asciende al poder"
+      "quotes": "Génesis 39-45"
+    },
+    {
+      "id": 8,
+      "title": "El nacimiento de Moisés y la zarza ardiente"
+      "quotes": "Éxodo 1:6-22, Éxodo 2-4"
+    }
+  ],
+}
