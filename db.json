@@ -1,6 +1,11 @@
 {
    "topics":[
       {
+         "id":15,
+         "title":"La Cosecha",
+         "quotes":"Gálatas 5:22 y 23"
+      },
+      {
          "id":1,
          "title":"La creación del mundo",
          "quotes":"Génesis 1, Génesis 2:1-4"
